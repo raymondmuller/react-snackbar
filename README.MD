@@ -14,6 +14,11 @@ http://raymondmuller.github.io/react-snackbar
 - Include the component and use it :)
 - See the source code of the demo for an example on how to implement this.
 
+### Props
+Delay (number in miliseconds, default = 3000)
+Message (the message to display)
+Show (conditionally show / hide the snackbar alert)
+
 ### Suggestions
 Do you have suggestions on how to improve this React Snackbar Component? Great!
 Send me a message or open an issue :)
