@@ -5,6 +5,9 @@ An easy way to show an alert :)
 ###Version
 1.0
 
+### Demo
+http://raymondmuller.github.io/react-snackbar
+
 ### Installation
 
 - Clone this repo or npm install react-snackbar or bower install react-snackbar
